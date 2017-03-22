@@ -7,4 +7,4 @@ The status updates in myPersonality have been anonymized manually, with each pro
 
 The data has been split into 80% train and 20% test. You will receive the training subset. The class distributions of the training data are as follows:
 
-<img src="train_splits.png" height="15" width="15">
+<img src="train_splits.png" height="35" width="35">
